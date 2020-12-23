@@ -24,9 +24,6 @@ function App() {
 
   }
 
-
-
-
   return (
     <div className="app">
       <main>
@@ -34,15 +31,21 @@ function App() {
           <input
             type="text"
             className="search-bar"
-            placeholder="Search...."
+            placeholder="Search..."
           />
         </div>
         <div className="location-box">
           <div className="location">New York City, US</div>
           <div className="date">{dateBuilder(new Date())}</div>
         </div>
-      </main>
-    </div>
+        <div className="weather-box">
+          <div className="temp">
+          15°c
+          </div>
+        <div className="weather">Sunny</div>
+      </div>
+    </main>
+  </div>
   );
 }
 
