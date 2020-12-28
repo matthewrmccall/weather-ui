@@ -9,14 +9,14 @@ body {
 }
 
 .app {
-  /*background-image: url('src/assets/cool.jpg');*/
+background-image: url('assets/cool.jpeg');
   background-size: cover;
   background-position: bottom;
   transition: 0.4 ease-out;
 }
 
 .app.warm {
-  /*background-image: url('src/assets/warm.jpg');*/
+  background-image: url('assets/warm.jpeg');
 }
 
 main {
@@ -87,7 +87,7 @@ main {
   font-size: 102px;
   font-weight: 900;
 
-  text-shadow: 3px 6px rgba(50, 50, 70, 0..5);
+  text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
   text-align: center;
   box-shadow: 3px 6px rgba(0, 0, 0, 0.2);
 }
