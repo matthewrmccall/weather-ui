@@ -6,4 +6,4 @@ Home Screen:
 Cool Location:
 ![Cool Location](src/assets/Kandahar.png?raw=true "Cool Location")
 Warm Location:
-![Location](src/assets/Rio de Janeiro.png?raw=true "Warm Location")
+![Warm Location](src/assets/Rio de Janeiro.png?raw=true "Warm Location")
