@@ -3,5 +3,7 @@ https://gallant-wilson-5bbf45.netlify.app
 
 Home Screen:
 ![Home Screen](src/assets/Home.png?raw=true "Home Screen")
-Location:
-![Location](src/assets/Kandahar.png?raw=true "Location")
+Cool Location:
+![Cool Location](src/assets/Kandahar.png?raw=true "Cool Location")
+Warm Location:
+![Location](src/assets/Rio de Janeiro.png?raw=true "Warm Location")
